@@ -15,7 +15,7 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            background: ;
+            background: transparent;
             
             
                     
@@ -25,7 +25,7 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
-            background: ;
+            background: transparent;
             
             
                     
@@ -62,7 +62,7 @@
             background-image: url(schedule_calendar_date_time_plan_icon_192544.png);
             background-size: 399px;
             background-position-x: center;
-            background-position-y: ;
+            
 
         }
         #f3-2{
@@ -79,10 +79,10 @@
             width: 400px;
             height: 400px;
             background: #1d7475;
-            background-image: url(تنزيل.png);
+            background-image: url(ssss.png);
             background-size: 399px;
             background-position-x: center;
-            background-position-y: ;
+            
 
 }
 #f4-2{
@@ -118,4 +118,5 @@
 
             
         }
+
 
