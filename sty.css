@@ -1,0 +1,74 @@
+#blook{
+            display: flex;
+            background: ;
+            justify-content: center;
+        }
+        #blook2{
+            display: flex;
+            background: ;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 50px;          
+        }
+        #blook3{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background: ;
+            
+            
+                    
+        }
+        body{ 
+            background: #1d7475;
+
+        }
+
+
+        
+        #f{
+            color: #badee6;
+            background: #1d7475;
+            transition: background 0.50s;
+        }
+    
+         #f2{
+            color: #badee6;
+            margin-top: 20px;
+            background: #1d7475;
+            transition: background 0.50s;
+        }
+        #f3{
+            color: #badee6;
+            background: #1d7475;
+            transition: background 0.50s;
+            
+        }
+        #f3-1{
+            width: 400px;
+            height: 400px;
+            background: #1d7475;
+            background-image: url(schedule_calendar_date_time_plan_icon_192544.png);
+            background-size: 399px;
+            background-position-x: center;
+            background-position-y: ;
+
+        }
+        #f3-2{
+            font-size: xx-large;
+            color: #badee6;
+        }
+        ::selection{
+            background: #6d8787
+            ;
+        }
+        #f:hover{
+            background: #6d8787;
+        }
+        #f2:hover{
+            background: #6d8787;
+        }
+        #f3:hover{
+            background: #6d8787;
+        }
