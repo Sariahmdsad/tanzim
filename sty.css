@@ -71,4 +71,15 @@
         }
         #f3:hover{
             background: #6d8787;
+
+        }
+@media screen and (max-width: 500px){
+            #f3-1{
+                 width: 200px;
+                 height: 200px;
+                 background-size: 200px;
+            }
+    
+
+            
         }
