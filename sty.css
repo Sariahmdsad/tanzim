@@ -20,6 +20,16 @@
             
                     
         }
+#blook4{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background: ;
+            
+            
+                    
+}
         body{ 
             background: #1d7475;
 
@@ -59,6 +69,26 @@
             font-size: xx-large;
             color: #badee6;
         }
+#f4{
+            color: #badee6;
+            background: #1d7475;
+            transition: background 0.50s;
+            
+            }
+#f4-1{
+            width: 400px;
+            height: 400px;
+            background: #1d7475;
+            background-image: url(تنزيل.png);
+            background-size: 399px;
+            background-position-x: center;
+            background-position-y: ;
+
+}
+#f4-2{
+            font-size: xx-large;
+            color: #badee6;
+}
         ::selection{
             background: #6d8787
             ;
@@ -79,7 +109,13 @@
                  height: 200px;
                  background-size: 200px;
             }
+            #f4-1{
+                 width: 200px;
+                 height: 200px;
+                 background-size: 200px;
+            }
     
 
             
         }
+
