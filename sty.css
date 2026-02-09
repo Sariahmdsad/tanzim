@@ -68,6 +68,7 @@
         #f3-2{
             font-size: xx-large;
             color: #badee6;
+            text-align:center;
         }
         #f4{
             color: #badee6;
@@ -88,6 +89,7 @@
         #f4-2{
             font-size: xx-large;
             color: #badee6;
+            text-align:center;
 }
         ::selection{
             background: #6d8787
@@ -118,6 +120,7 @@
 
             
         }
+
 
 
 
