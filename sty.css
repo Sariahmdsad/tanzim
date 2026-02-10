@@ -111,7 +111,7 @@
             width: 400px;
             height: 400px;
             background: #1d7475;
-            background-image: url(ssss.svg);
+            background-image: url(cam.ico);
             background-size: 399px;
             background-position-x: center;
             
@@ -139,6 +139,17 @@
             background: #6d8787;
 
         }
+        #f3-2:hover{
+               background: #6d8787;     
+        }
+        #f4-2:hover{
+               background: #6d8787;     
+         }
+        #f5-2:hover{
+               background: #6d8787;     
+        }
+
+
 
 @media screen and (max-width: 500px){
             #f3-1{
@@ -160,6 +171,7 @@
 
             
         }
+
 
 
 
